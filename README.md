@@ -1,5 +1,5 @@
 Currency Converter - XE Clone
-A web-based currency converter application allows users to convert between multiple currencies using real-time exchange rates. The app supports currency swapping and displays conversion rates for common increments.
+A web-based currency converter application that allows users to convert between multiple currencies using real-time exchange rates. The app supports currency swapping and displays conversion rates for common increments.
 
 Features
 Convert between multiple currencies
