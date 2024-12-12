@@ -20,7 +20,7 @@ A web-based currency converter application allows users to convert between multi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   https://github.com/destineyallensuarez/Currency-Converter-Project/tree/main/Currency%20Converter
    ```
 
 2. Open `cc.html` in your web browser.
